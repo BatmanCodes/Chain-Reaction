@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bin\Release\resources.pri
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bin\Release\AppxManifest.xml
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bin\Release\Chain Reaction.build.appxrecipe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\priconfig.xml.intermediate
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\layout.resfiles.intermediate
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\resources.resfiles.intermediate
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\pri.resfiles.intermediate
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\priconfig.xml
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\layout.resfiles
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\resources.resfiles
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\pri.resfiles
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\LanguageQualifiers.txt
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Chain Reaction\Chain Reaction\bld\Release\ProjectArchitectures.txt
